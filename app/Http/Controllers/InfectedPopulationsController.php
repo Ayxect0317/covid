@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class InfectedInTokyosController extends Controller
+class InfectedPopulationsController extends Controller
 {
   public function test(){
     return view("test");
